@@ -530,7 +530,9 @@ Potential extensions to this project include:
 **MD Nur Hossain Joy**
 
 Aspiring Data Analyst | Python | SQL | PostgreSQL | Power BI | Excel
+
 Email: nurhossenjoy72@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/md-nur-hossain-joy-0b0bb9190
 
 **Areas of Interest:** Data Analytics, Business Intelligence, Data Visualization, Customer Analytics, and Machine Learning.
