@@ -2,6 +2,8 @@
 
 ### Python | PostgreSQL | SQL | Power BI
 
+![Customer Shopping Behavior Analysis](Dashboard_Image_and_other/Customer%20Shopping%20Behavior%20Analysis.avif)
+
 An end-to-end data analytics project focused on customer purchasing behavior, revenue contribution, product performance, discount usage, customer segmentation, and subscription patterns. This project combines **Python-based data preparation, PostgreSQL business analysis, and Power BI dashboarding** to transform raw shopping data into meaningful business insights.
 
 ---
